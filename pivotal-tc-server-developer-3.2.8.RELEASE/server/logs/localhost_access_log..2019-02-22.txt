@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/Feb/2019:14:38:45 +0530] "GET / HTTP/1.1" 200 2801
+127.0.0.1 - - [22/Feb/2019:14:38:46 +0530] "GET /MyFirstWebAppli/WEB-INF/myhtml.html HTTP/1.1" 404 1076
+127.0.0.1 - - [22/Feb/2019:14:43:19 +0530] "GET / HTTP/1.1" 200 2801
+127.0.0.1 - - [22/Feb/2019:14:43:20 +0530] "GET /MyFirstWebAppli/MyServlet HTTP/1.1" 200 27
+127.0.0.1 - - [22/Feb/2019:14:44:29 +0530] "GET / HTTP/1.1" 200 2801
+127.0.0.1 - - [22/Feb/2019:14:44:29 +0530] "GET /MyFirstWebAppli/MyServlet HTTP/1.1" 200 13
